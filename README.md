@@ -1,5 +1,5 @@
 # Credit-card-digits-extraction-via-computer-vision
-Real time system for digits recognition on low-resolution webcam
+## Real time system for digits recognition on low-resolution webcam
 
 The project aim to examine feasibility of extraction an interesting information out of credit cards by using low resolution camera.<br>
 I wanted to check wheter CC digits recognition can be done by using a webcam, as I saw tutorials that doing so on a static image (e.g. pyimagesearch, great blog), but not on video.
