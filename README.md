@@ -2,7 +2,7 @@
 Real time system for digits recognition on low-resolution webcam
 
 The project aim to examine feasibility of extraction an interesting information out of credit cards by using low resolution camera.<br>
-I wanted to check wheter CC digits recognition can be done by using a webcam, as I saw tutorials that doing so on a static image (e.g. pyimagesearch, great blog), but not on video.
+I wanted to check wheter CC digits recognition can be done by using a webcam. I searched and discovered tutorials that doing so on a static image (e.g. pyimagesearch great blog), but could not find implemantations on video.
 
 
 This task is a bit problematic due to the reasons that using laptop webcam will provide low resolution which impairs accuracy, and the second, trying to detect dynamic objects (digits in our case).<br/>
