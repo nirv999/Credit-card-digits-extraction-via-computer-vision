@@ -7,10 +7,9 @@ Additionally, credit companies set difficulties (and rightly so) on details extr
 
 #### #Please do not use this for malicious purposes!#
 ![cc_gif](https://user-images.githubusercontent.com/44063183/71322138-ce392000-24cc-11ea-9ee7-c4a627405fe9.gif)<br>
-### You can find more comprehnsive explanation at the poster inside the "View all of README.md" down below
+### #You can find much more comprehnsive and detailed explanation at the poster inside the "View all of README.md" down below#
 
 I wanted to check wheter CC digits recognition can be done by using a webcam. I searched and discovered tutorials that doing so on a static image (e.g. pyimagesearch great blog), but could not find implemantations on video.
-### for your convenience, further details you can find at the following poster or play with the code ;) 
 _________________________________________________________________________________________________
 
 
