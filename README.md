@@ -5,7 +5,6 @@ The project aim to examine feasibility of extract interesting information out of
 This task is a bit problematic due to the reasons that using laptop webcam will provide low resolution which impairs accuracy, and the second, trying to detect dynamic objects (digits in our case).<br/>
 Additionally, credit companies set difficulties (and rightly so) on details extraction to prevent credit theft and frauds, what makes the task challenging.<br/>
 
-#### #Please do not use this for malicious purposes!#
 ![cc_gif](https://user-images.githubusercontent.com/44063183/71322138-ce392000-24cc-11ea-9ee7-c4a627405fe9.gif)<br>
 #### #You can find much more comprehnsive and detailed explanation inside the poster at the README down below
 
