@@ -1,5 +1,5 @@
 # Credit-card-digits-extraction-via-computer-vision
-Real time system for digits recognition on low-resolution webcam
+### Real time system for digits recognition on low-resolution webcam
 
 The project aim to examine feasibility of extract interesting information out of credit cards by using low resolution camera.<br>
 This task is a bit problematic due to the reasons that using laptop webcam will provide low resolution which impairs accuracy, and the second, trying to detect dynamic objects (digits in our case).<br/>
