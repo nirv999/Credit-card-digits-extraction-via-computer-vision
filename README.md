@@ -6,9 +6,11 @@ This task is a bit problematic due to the reasons that using laptop webcam will 
 Additionally, credit companies set difficulties (and rightly so) on details extraction to prevent credit theft and frauds, what makes the task challenging.<br/>
 
 ![cc_gif](https://user-images.githubusercontent.com/44063183/71322138-ce392000-24cc-11ea-9ee7-c4a627405fe9.gif)<br>
-#### #You can find much more comprehnsive and detailed explanation inside the poster at the README down below
+#### NOTE: You can find much more comprehnsive and detailed explanation inside the poster at the README file
 
-I wanted to check wheter CC digits recognition can be done by using a webcam. I searched and discovered tutorials that doing so on a static image (e.g. pyimagesearch great blog), but could not find implemantations on video.
+I decided to check wheter CC digits recognition can be done by using a webcam. I searched and discovered tutorials that doing so on a static image (e.g. pyimagesearch great blog), but could not find implemantations on video.
+Hope that this will help you, and if it is (or not..) please feedback.
+#### #Please do not use this for malicious purposes!#
 _________________________________________________________________________________________________
 
 
